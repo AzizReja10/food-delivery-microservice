@@ -1,0 +1,11 @@
+target/
+.git/
+.gitignore
+.idea/
+*.iml
+**/.classpath
+**/.project
+**/.settings/
+**/.factorypath
+**/.idea/
+**/*.log
